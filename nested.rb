@@ -16,6 +16,7 @@ def hopper
       }
     }
 grace_hopper
+epic_tragedy[:montague][:hero][:status] = "dead"
 
 end
 
