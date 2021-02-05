@@ -12,7 +12,7 @@ def hopper
       },
       :dennis_ritchie => {
         :known_for => "Unix",
-        :languages => ["C"]
+        :languages => ["C"] 
       }
     }
 
@@ -62,7 +62,7 @@ def dennis_ritchies_language
       }
     }
 
-programmer_hash[:dennis_ritchie][:languages]="C"
+programmer_hash[:dennis_ritchie][:languages]="C" #return as a string, otherwise ["c"] returns value of array
 end
 
 def adding_matz
@@ -72,6 +72,8 @@ def adding_matz
 #   :languages => ["LISP", "C"]
 # }
 # return the entire updated hashlearn
+
+
 
 	programmer_hash = 
  		{
