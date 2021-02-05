@@ -62,7 +62,7 @@ def dennis_ritchies_language
       }
     }
 
-programmer_hash[:dennis_ritchie][:languages]["C"]
+programmer_hash[:dennis_ritchie][:languages]
 end
 
 def adding_matz
@@ -71,7 +71,7 @@ def adding_matz
 #   :known_for => "Ruby",
 #   :languages => ["LISP", "C"]
 # }
-# return the entire updated hash
+# return the entire updated hashlearn
 
 	programmer_hash = 
  		{
