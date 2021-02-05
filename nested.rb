@@ -15,8 +15,8 @@ def hopper
         :languages => ["C"]
       }
     }
-grace_hopper
-programmer_hash[:grace_hopper][:hero][:status] = "dead"
+
+programmer_hash[:grace_hopper]
 
 end
 
