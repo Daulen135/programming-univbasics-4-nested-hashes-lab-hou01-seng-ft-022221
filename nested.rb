@@ -39,13 +39,9 @@ def alan_kay_is_known_for
         :languages => ["C"]
       }
     }
-
+programmer_hash[:alan_kay][:known_for]
 end
- describe "the alan_kay_is_known_for method" do
-    it "operates on the programmer_hash and returns the value of what Alan Kay is known for" do
-      expect(alan_kay_is_known_for).to eq("Object Orientation")
-    end
-  end
+ 
 
 
 
@@ -65,7 +61,7 @@ def dennis_ritchies_language
         :languages => ["C"]
       }
     }
-programmer_hash[;]
+
 end
 
 def adding_matz
