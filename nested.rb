@@ -73,7 +73,11 @@ def adding_matz
 # }
 # return the entire updated hashlearn
 
-
+yukihiro_matsumoto => 
+{
+ :known_for => "Ruby",
+:languages => ["LISP", "C"]
+}
 
 	programmer_hash = 
  		{
