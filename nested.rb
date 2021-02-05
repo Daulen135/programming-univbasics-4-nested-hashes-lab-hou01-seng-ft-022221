@@ -16,7 +16,7 @@ def hopper
       }
     }
 grace_hopper
-epic_tragedy[:montague][:hero][:status] = "dead"
+programmer_hash[:grace_hopper][:hero][:status] = "dead"
 
 end
 
